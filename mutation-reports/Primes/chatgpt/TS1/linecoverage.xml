@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='experimento.Primes' method='primeFactors(I)Ljava/util/List;' number='0'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnCorrectFactors_ForCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnMultipleDistinctFactors()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnSingleElementList_ForPrimeInput()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldThrowException_WhenInputLessThanTwo()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='primeFactors(I)Ljava/util/List;' number='5'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnCorrectFactors_ForCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnMultipleDistinctFactors()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnSingleElementList_ForPrimeInput()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='primeFactors(I)Ljava/util/List;' number='6'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnCorrectFactors_ForCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnMultipleDistinctFactors()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldReturnSingleElementList_ForPrimeInput()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='0'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForLargeCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForNumberLessThan2()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForSmallCompositeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForLargePrimeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForSmallPrimeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='3'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForLargeCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForSmallCompositeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForLargePrimeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForSmallPrimeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='2'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForLargeCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForSmallCompositeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForLargePrimeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForSmallPrimeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='5'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForLargeCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForSmallCompositeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForSmallPrimeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='4'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForLargeCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForSmallCompositeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForLargePrimeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForSmallPrimeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='7'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForLargeCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForSmallCompositeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='6'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForSmallPrimeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='9'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForSmallCompositeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForLargePrimeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForSmallPrimeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='8'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForLargeCompositeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForSmallCompositeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForSmallPrimeNumbers()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='0'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnTwo_WhenInputIsZeroOrOneOrTwo()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldThrowException_WhenNegativeInput()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='7'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnTwo_WhenInputIsZeroOrOneOrTwo()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='5'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnTwo_WhenInputIsZeroOrOneOrTwo()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='11'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='10'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='9'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='13'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='12'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='18'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='17'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='16'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnNextPrime_WhenInputIsComposite()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='1'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnFalse_ForNumberLessThan2()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='4'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldThrowException_WhenNegativeInput()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='3'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldThrowException_WhenNegativeInput()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='2'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldThrowException_WhenNegativeInput()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='1'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldThrowException_WhenNegativeInput()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='11'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForLargePrimeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='isPrime(I)Z' number='10'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:isPrime_ShouldReturnTrue_ForLargePrimeNumber()]'/>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnSameNumber_WhenInputIsPrime()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='primeFactors(I)Ljava/util/List;' number='1'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldThrowException_WhenInputLessThanTwo()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='primeFactors(I)Ljava/util/List;' number='2'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldThrowException_WhenInputLessThanTwo()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='primeFactors(I)Ljava/util/List;' number='3'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldThrowException_WhenInputLessThanTwo()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='primeFactors(I)Ljava/util/List;' number='4'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:primeFactors_ShouldThrowException_WhenInputLessThanTwo()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='6'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnTwo_WhenInputIsZeroOrOneOrTwo()]'/>
+</tests>
+</block>
+<block classname='experimento.Primes' method='nextPrime(I)I' number='8'><tests>
+<test name='experimento.chatgpt.primes.ChatGPT1PrimesTest.[engine:junit-jupiter]/[class:experimento.chatgpt.primes.ChatGPT1PrimesTest]/[method:nextPrime_ShouldReturnTwo_WhenInputIsZeroOrOneOrTwo()]'/>
+</tests>
+</block>
+</coverage>

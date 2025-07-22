@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='experimento.Range' method='isAfter(Ljava/lang/Object;)Z' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='of(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lexperimento/Range;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='of(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lexperimento/Range;' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='10'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isAfter(Ljava/lang/Object;)Z' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isAfter(Ljava/lang/Object;)Z' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isAfter(Ljava/lang/Object;)Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lexperimento/Range;' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='of(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)Lexperimento/Range;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='8'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='7'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='fit(Ljava/lang/Object;)Ljava/lang/Object;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='fit(Ljava/lang/Object;)Ljava/lang/Object;' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isAfter(Ljava/lang/Object;)Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='fit(Ljava/lang/Object;)Ljava/lang/Object;' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='fit(Ljava/lang/Object;)Ljava/lang/Object;' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementBelowRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='8'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='7'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOutsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='9'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='10'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='7'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenDisjoint()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='toString()Ljava/lang/String;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='toString()Ljava/lang/String;' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='toString()Ljava/lang/String;' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='toString()Ljava/lang/String;' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='toString()Ljava/lang/String;' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithNonOverlappingThrowsException()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringDefaultFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isBefore(Ljava/lang/Object;)Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isBefore(Ljava/lang/Object;)Z' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isBefore(Ljava/lang/Object;)Z' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isBefore(Ljava/lang/Object;)Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isBefore(Ljava/lang/Object;)Z' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnFalse()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementOnBoundaries()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsElementWithinRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isOverlappedBy(Lexperimento/Range;)Z' number='8'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsOverlappedByWhenOverlapping()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isNaturalOrdering()Z' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isNaturalOrdering()Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isNaturalOrdering()Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='getMaximum()Ljava/lang/Object;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='getMinimum()Ljava/lang/Object;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithNaturalOrderingShouldSetCorrectMinAndMax()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='elementCompareTo(Ljava/lang/Object;)I' number='7'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isAfter(Ljava/lang/Object;)Z' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsAfterShouldReturnFalse()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='elementCompareTo(Ljava/lang/Object;)I' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='elementCompareTo(Ljava/lang/Object;)I' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='elementCompareTo(Ljava/lang/Object;)I' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='elementCompareTo(Ljava/lang/Object;)I' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='elementCompareTo(Ljava/lang/Object;)I' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isBefore(Ljava/lang/Object;)Z' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsBeforeShouldReturnTrue()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='contains(Ljava/lang/Object;)Z' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsNullShouldReturnFalse()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='10'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='11'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='8'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='9'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='20'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='18'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='19'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='16'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='14'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='15'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='13'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='getComparator()Ljava/util/Comparator;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testComparatorWithCustomLogic()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='12'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='13'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='8'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='7'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsShouldReturnFalseForDifferentRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithOverlappingRanges()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='is(Ljava/lang/Comparable;)Lexperimento/Range;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='is(Ljava/lang/Comparable;)Lexperimento/Range;' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsMethodCreatesSingleValueRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='containsRange(Lexperimento/Range;)Z' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='containsRange(Lexperimento/Range;)Z' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='containsRange(Lexperimento/Range;)Z' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='containsRange(Lexperimento/Range;)Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='containsRange(Lexperimento/Range;)Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='containsRange(Lexperimento/Range;)Z' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='containsRange(Lexperimento/Range;)Z' number='8'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeCompletelyWithin()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testContainsRangeWithEqualBounds()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='fit(Ljava/lang/Object;)Ljava/lang/Object;' number='7'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='fit(Ljava/lang/Object;)Ljava/lang/Object;' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='fit(Ljava/lang/Object;)Ljava/lang/Object;' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementInsideRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='intersectionWith(Lexperimento/Range;)Lexperimento/Range;' number='7'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIntersectionWithEqualRangesReturnsSameInstance()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='&lt;init&gt;(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Comparator;)V' number='9'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testOfWithInvertedOrderShouldSwapMinAndMax()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='elementCompareTo(Ljava/lang/Object;)I' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToAboveRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isEndedBy(Ljava/lang/Object;)Z' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isEndedBy(Ljava/lang/Object;)Z' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isEndedBy(Ljava/lang/Object;)Z' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isEndedBy(Ljava/lang/Object;)Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isEndedBy(Ljava/lang/Object;)Z' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isEndedBy(Ljava/lang/Object;)Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isStartedBy(Ljava/lang/Object;)Z' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isStartedBy(Ljava/lang/Object;)Z' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isStartedBy(Ljava/lang/Object;)Z' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isStartedBy(Ljava/lang/Object;)Z' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isStartedBy(Ljava/lang/Object;)Z' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='isStartedBy(Ljava/lang/Object;)Z' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testIsStartedByAndIsEndedBy()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='10'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='11'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='equals(Ljava/lang/Object;)Z' number='9'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='hashCode()I' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='hashCode()I' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='hashCode()I' number='2'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='hashCode()I' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='hashCode()I' number='4'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='hashCode()I' number='5'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='hashCode()I' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testEqualsAndHashCode()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='fit(Ljava/lang/Object;)Ljava/lang/Object;' number='6'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testFitWithElementAboveRange()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='toString(Ljava/lang/String;)Ljava/lang/String;' number='1'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='toString(Ljava/lang/String;)Ljava/lang/String;' number='0'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testToStringCustomFormat()]'/>
+</tests>
+</block>
+<block classname='experimento.Range' method='elementCompareTo(Ljava/lang/Object;)I' number='3'><tests>
+<test name='experimento.chatgpt.range.ChatGPT2RangeTest.[engine:junit-jupiter]/[class:experimento.chatgpt.range.ChatGPT2RangeTest]/[method:testElementCompareToBelowRange()]'/>
+</tests>
+</block>
+</coverage>

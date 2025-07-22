@@ -1,0 +1,2 @@
+Not applicable.
+The generated test suites for this class were not eligible for PIT execution (compilation error or runtime failure).

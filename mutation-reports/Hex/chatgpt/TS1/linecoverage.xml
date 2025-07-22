@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage>
+<block classname='experimento.Hex' method='&lt;clinit&gt;()V' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([B[C)[C' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_lowercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_usingDigitsLower_returnsCorrectOutput()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([BZ)[C' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_lowercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([B[C)[C' number='3'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_lowercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_usingDigitsLower_returnsCorrectOutput()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([BZ)[C' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([BZ)[C' number='3'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_lowercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([B[C)[C' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_lowercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_usingDigitsLower_returnsCorrectOutput()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([BZ)[C' number='4'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_lowercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([B[C)[C' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_lowercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_uppercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_usingDigitsLower_returnsCorrectOutput()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='5'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='6'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='3'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='4'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_oddLength_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='5'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='toDigit(CI)I' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toDigit_invalidHexChar_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toDigit_validHexChar_returnsCorrectDigit()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='4'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='toDigit(CI)I' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toDigit_invalidHexChar_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toDigit_validHexChar_returnsCorrectDigit()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='7'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='toDigit(CI)I' number='4'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toDigit_validHexChar_returnsCorrectDigit()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectInvalidType_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='8'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_validHexChars_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='&lt;init&gt;()V' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectInvalidType_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectInvalidType_throwsEncoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='&lt;init&gt;()V' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsString_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectInvalidType_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectInvalidType_throwsEncoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='8'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectInvalidType_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='7'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectInvalidType_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='6'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectInvalidType_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode(Ljava/lang/Object;)Ljava/lang/Object;' number='3'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectAsCharArray_returnsDecodedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_objectInvalidType_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='toDigit(CI)I' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toDigit_invalidHexChar_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='toDigit(CI)I' number='3'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_invalidCharacter_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toDigit_invalidHexChar_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectInvalidType_throwsEncoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='4'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectInvalidType_throwsEncoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='7'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectInvalidType_throwsEncoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='8'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectInvalidType_throwsEncoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='9'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectInvalidType_throwsEncoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='3'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([B)[C' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='5'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode(Ljava/lang/Object;)Ljava/lang/Object;' number='6'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([B)[C' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='getCharsetName()Ljava/lang/String;' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_invalidCharset_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:getCharsetName_returnsConfiguredCharset()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHex([BZ)[C' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHex_lowercaseEncoding_returnsExpectedChars()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsByteArray_returnsCharArray()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_objectAsString_returnsCharArray()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_oddLength_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decodeHex([C)[B' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decodeHex_oddLength_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='toString()Ljava/lang/String;' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toString_includesCharsetName()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='&lt;init&gt;(Ljava/lang/String;)V' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_invalidCharset_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:getCharsetName_returnsConfiguredCharset()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toString_includesCharsetName()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='toString()Ljava/lang/String;' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toString_includesCharsetName()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='&lt;init&gt;(Ljava/lang/String;)V' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_invalidCharset_throwsDecoderException()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:getCharsetName_returnsConfiguredCharset()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:toString_includesCharsetName()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHexString([B)Ljava/lang/String;' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHexString([B)Ljava/lang/String;' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encodeHexString([B)Ljava/lang/String;' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encodeHexString_returnsExpectedString()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode([B)[B' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode([B)[B' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode([B)[B' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='encode([B)[B' number='3'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:encode_byteArray_returnsExpectedBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode([B)[B' number='3'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode([B)[B' number='4'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode([B)[B' number='1'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_invalidCharset_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode([B)[B' number='2'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode([B)[B' number='0'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_byteArray_validHex_returnsCorrectBytes()]'/>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_invalidCharset_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode([B)[B' number='5'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_invalidCharset_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode([B)[B' number='6'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_invalidCharset_throwsDecoderException()]'/>
+</tests>
+</block>
+<block classname='experimento.Hex' method='decode([B)[B' number='7'><tests>
+<test name='experimento.ChatGPT1HexTest.[engine:junit-jupiter]/[class:experimento.ChatGPT1HexTest]/[method:decode_invalidCharset_throwsDecoderException()]'/>
+</tests>
+</block>
+</coverage>
