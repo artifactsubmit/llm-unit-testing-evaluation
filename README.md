@@ -47,6 +47,7 @@ The experiment was conducted as follows:
 
 1. Generation of unit tests via LLMs (5 runs per class/model) using the web interface.
 2. Compilation and execution of the test suites.
-3. Application of PIT to the valid suites to obtain Mutation Score and Mutation Coverage.
-4. Analysis of runtime failures.
+3. Generation of fixed mutants per class using the `baseTestClasses(mutants)` configuration to ensure consistency across all executions.
+4. Application of PIT to the valid test suites to obtain Mutation Score and Mutation Coverage.
 5. Consolidation of data into spreadsheets and generation of final reports.
+
